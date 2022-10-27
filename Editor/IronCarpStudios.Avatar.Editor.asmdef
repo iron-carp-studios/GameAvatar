@@ -1,0 +1,16 @@
+{
+    "name": "IronCarpStudios.Avatar.Editor",
+    "rootNamespace": "IronCarpStudios.Avatar.Editor",
+    "references": [
+        "IronCarpStudios.Avatar"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

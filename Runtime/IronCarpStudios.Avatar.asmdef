@@ -1,0 +1,16 @@
+{
+    "name": "IronCarpStudios.Avatar",
+    "rootNamespace": "IronCarpStudios.Avatar",
+    "references": [
+        "SerializableDictionary"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
