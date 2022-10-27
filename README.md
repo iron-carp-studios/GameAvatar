@@ -1,0 +1,2 @@
+# GameAvatar
+GameAvatar class library
